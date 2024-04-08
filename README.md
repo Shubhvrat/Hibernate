@@ -1,5 +1,5 @@
 In this project we have performed CRUD operation using Hibernate Java
-See the Output below
+See the below Output
 
 Creation of Tables Student
 ![image](https://github.com/Shubhvrat/Hibernate/assets/136417102/771b82f2-67ad-43f6-94a5-49e14cd9371d)
